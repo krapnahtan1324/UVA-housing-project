@@ -1,0 +1,13 @@
+django-bootstrap-v5
+gunicorn
+django-heroku
+Django
+crispy-bootstrap5
+whitenoise
+social-auth-app-django
+psycopg2-binary
+dj-database-url
+Pillow
+boto3
+django-storages
+django-crispy-forms
